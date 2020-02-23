@@ -1,0 +1,13 @@
+title: Alexander Andriatis # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  I am a PhD student at the Scripps Institution of Oceanography working at the intersection of internal wave observation and modeling. 
+  <br><br>
+  If you'd like to get in touch, send me an email at aandriat at ucsd dot edu. 
+  <br><br>
+  Visit my <a href="https://www.linkedin.com/in/aandriatis/">LinkedIn Profile</a>
+  <br><br>
+  See my <a href="https://www.mod.ucsd.edu/">lab at Scripps</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here

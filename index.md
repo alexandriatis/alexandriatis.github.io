@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Numerical Methods](/sample_page)
+[Numerical Methods](/numerical_methods)
 <img src="images/eta_pulse.png?raw=true"/>
 
 ---

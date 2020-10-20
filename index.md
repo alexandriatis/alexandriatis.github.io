@@ -11,6 +11,9 @@
 
 
 ### CV
+
+### Data
+[Asset Tracking](/asset_tracking)
 ---
 <p style="font-size:11px">Page based on <a href="https://pages-themes.github.io/minimal/">minimal</a></p>
 <!-- Remove above link if you don't want to attibute -->

@@ -9,6 +9,6 @@
 Not supported
 </object>
 
-<a href="data/GMRTv3_TFO.png" download><img src="data/GMRTv3_TFO.png"/></a>
+<a href="data/GMRTv3_TFO.eps" download><img src="data/GMRTv3_TFO.eps"/></a>
 
 <a href="data/grid.mat" download>[MATLAB]</a>

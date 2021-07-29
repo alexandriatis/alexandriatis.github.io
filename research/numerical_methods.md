@@ -6,11 +6,11 @@
 
 The 1-dimensional wave equation is a simple model ubiquitous in physics classes. Here, I solve the 1-D wave equation numerically for a Gaussian initial condition with a Dirichlet boundary condition on the left and a Neumann boundary condition on the right of the domain. For Matlab code see [wave1d_dist.m](https://github.com/alexandriatis/Projects/blob/master/NUMERICAL_WAVES/wave1d_dist.m).
 
-<img src="movies/phi_pulse.mp4?raw=true"/>
+<img src="/movies/phi_pulse.mp4?raw=true"/>
 
 
 ### 1-D Surface Waves in MITgcm:
 
 To learn about MITgcm, I solve the shallow water wave equations in one dimension using the pressure method with an implicit linear free surface. Here, a Gaussian initial condition propagates in a closed domain with constant water depth on the left and a linearly sloping bottom on the right. The bottom depth is not represented to scale; the maximum depth is `h=100` while the minimum depth is `h=5`. For Matlab code see [mit1d_dist.m](https://github.com/alexandriatis/Projects/blob/master/NUMERICAL_WAVES/mit1d_dist.m).
 
-<img src="movies/eta_pulse_long.mp4?raw=true"/>
+<img src="/movies/eta_pulse_long.mp4?raw=true"/>

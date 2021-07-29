@@ -18,4 +18,4 @@ The comparable cost of the current system is an annualized cost of $25 million, 
 I am part of the Energy Systems Campaign within the UCSD Green New Deal, which has a goal of convincing the UC campuses to electrify their energy systems and accelerate the retirement of fossil fuel infrastructure. You can see your campaign at [electrifyuc.org](https://electrifyuc.org) and learn how to get involved.
 
 
-<img src="images/electrify_uc_logo.png?raw=true"/>
+<img src="/images/electrify_uc_logo.png?raw=true"/>

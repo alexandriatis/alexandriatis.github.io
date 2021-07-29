@@ -9,7 +9,7 @@ To inform my discussions about the cliamte crisis and solutions for it, I've mad
 
 ["Electric Vehicle Efficiency"](https://docs.google.com/spreadsheets/d/e/2PACX-1vT3hyL1zs1qWMaysPEsQY4mV_MfUcAXoP-icdj5bYuDsV4OPYp4QOOpUJ8VIy_pI-SyNAec6IKD8AEt/pubhtml) is a running list of electric vehicles available on the market. It is meant both as a research tool to guage the status of electric vehicle efficiency and cost, and as a tool to aid purchasing decisions. 
 
-<img src="images/vehicle_efficiency.png?raw=true"/>
+<img src="/images/vehicle_efficiency.png?raw=true"/>
 
 ### Energy
 
@@ -26,4 +26,4 @@ To inform my discussions about the cliamte crisis and solutions for it, I've mad
 ---
 
 
-<img src="images/alex_tesla?raw=true"/>
+<img src="/images/alex_tesla?raw=true"/>

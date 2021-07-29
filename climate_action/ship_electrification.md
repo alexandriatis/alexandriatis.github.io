@@ -7,4 +7,4 @@ I started a [petition](https://docs.google.com/document/d/e/2PACX-1vTe9TEQ24amTj
 The Scripps administration has not yet responded to the petition or made any commitments to zero-emissions ships. A [hydrogen-hybrid ship](https://scripps.ucsd.edu/news/uc-san-diego-receives-35-million-state-funding-new-california-coastal-research-vessel), however, has been awarded $35 million in the 2021 California state budget. This ship will replace the R/V Sproul and will be able to conduct about 75% of its missions using only hydrogen power, leading to overal emissions reductions of about 25%. 
 
 
-<img src="images/ship_flyer.pdf?raw=true"/>
+<img src="/images/ship_flyer.pdf?raw=true"/>

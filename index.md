@@ -1,7 +1,4 @@
 ## Phyiscal Oceanography
-
----
-
 ### Projects
 
 [Numerical Methods](/research/numerical_methods)
@@ -21,7 +18,6 @@
 
 ## Climate Action
 
----
 
 ### [Divestment](/climate_action/divestment)
 

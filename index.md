@@ -23,7 +23,7 @@
 
 ---
 
-### [Divestment](/cliamte_action/divestment)
+### [Divestment](/climate_action/divestment)
 
 ### [Campus Electrification](/climate_action/ucsd_electrification)
 

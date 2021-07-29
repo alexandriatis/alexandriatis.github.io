@@ -26,4 +26,4 @@ To inform my discussions about the cliamte crisis and solutions for it, I've mad
 ---
 
 
-<img src="/images/alex_tesla?raw=true"/>
+<img src="/images/alex_tesla.jpg?raw=true"/>

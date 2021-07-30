@@ -2,7 +2,7 @@
 
 Divestment is a campaign to reduce the influence and reliance on the fossil fuel industry by removing its funding. The industry relies on heavy leveraging in order to make profits from the extraction, refinement, and consumption of fossil fuels. It receives this leverage through 1) public equity in the form of stocks, 2) private equity through large investment funds and financial institutions, and 3) business loans. The divestment campaign targets these sources of leverage by 1) convincing individuals to not invest in fossil fuel stocks and the stocks of financial institutions lending to the fossil fuel industry, 2) convincing private institutions such as pension funds to end both public and private investment in fossil fuel companies, and 3) pressuring financial institutions to end lending practices to the fossil fuel industry by boycotting personal banking, pressuring busineess to bank with alternative companies, and divesting from the stocks of financial institutions.
 
-At UCSD I lead the Fossil Free Finance campaign within the UCSD Green New Deal. Our campaign is centered around three actionable points:
+At UCSD I lead the [Fossil Free Finance](https://ucsdgreennewdeal.net/index.php/fossil-fuel-divestment/) campaign within the [UCSD Green New Deal](https://ucsdgreennewdeal.net/index.php/about-us/). Our campaign is centered around three actionable points:
 
 
 ### Personal Divestment

@@ -5,7 +5,7 @@ To inform my discussions about the cliamte crisis and solutions for it, I've mad
 
 ### Transportation
 
-["A petition for Scripps's Commitment to a Zero-Emissions Research Fleet"] is a petition asking Scripps to commit to a zero-emissions research fleet. It is accompanied by a [letter to the Scripps administration](https://docs.google.com/document/d/e/2PACX-1vSmKznwh73qnSlnIQH312J8PBzgJ8K4nwA-aFP_mHarbT4av7KnJfnJDs-abAd62H5Wc9KIcIB-QPto/pub) and an [opinion article](https://www.ucsdclimatereview.org/post/will-scripps-oceanography-leadership-commit-to-zero-emissions-research-vessels) for publicity.
+["A petition for Scripps's Commitment to a Zero-Emissions Research Fleet"](https://docs.google.com/document/d/e/2PACX-1vTe9TEQ24amTjLXlyxDUtQcNFk3-FsCXwcYNEpyrNz1EysBi6Lnjbeg_lBPLXmEtGWTFngLC4elSZL5/pub) is a petition asking Scripps to commit to a zero-emissions research fleet. It is accompanied by a [letter to the Scripps administration](https://docs.google.com/document/d/e/2PACX-1vSmKznwh73qnSlnIQH312J8PBzgJ8K4nwA-aFP_mHarbT4av7KnJfnJDs-abAd62H5Wc9KIcIB-QPto/pub) and an [opinion article](https://www.ucsdclimatereview.org/post/will-scripps-oceanography-leadership-commit-to-zero-emissions-research-vessels) for publicity.
 
 ["Transportation Efficiency of Various Modes of Transport"](https://docs.google.com/document/d/e/2PACX-1vQQw-rztodKpbZEaBE3Qr6lEWjGE-7vRdyLU1sUDCLVWAriDDJgrmMj45utvzjIwmuD7o72wo7jBmh0/pub) is a rough estimate of greenhouse gas emissions resulting from various transportation that stemmed out of a teatime debate over the climate impacts of flying.
 

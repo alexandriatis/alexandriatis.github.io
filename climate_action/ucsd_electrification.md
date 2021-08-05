@@ -6,7 +6,7 @@ UCSD has an obligation to electrify its campus immediately in order to meet its 
 
 I made an [estimate](https://docs.google.com/document/d/e/2PACX-1vQituXFBpATW-eU-SXtkfK80NpO1X1TJTytTbih8ca3SoWe69FoRWLkFWFVodsT2NKY5Y0v9T6llsp5/pub) of what electrification would require in terms of energy demand and cost. 
 
-The result of this cost estimate is, of course, that electrification is more expensive than continuing to use methane-based cogeneration, but we already knew that. The key result here is that the benefits of electrification are worth the immediate cost, and that electrification will save UCSD money in the long run.
+The result of this cost estimate is, of course, that electrification is more expensive than continuing to use methane-based cogeneration, but we already knew that. The key result here is that **the benefits of electrification are worth the immediate cost**, and that **electrification will save UCSD money in the long run**.
 
 <img src="/images/electrification_cost.png?raw=true"/>
 <img src="/images/electrification_resources.png?raw=true"/>

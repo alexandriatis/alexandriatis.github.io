@@ -15,7 +15,12 @@ To inform my discussions about the cliamte crisis and solutions for it, I've mad
 
 ### Energy
 
-["An independent estimate of electrification demands and costs for UCSD"](https://docs.google.com/document/d/e/2PACX-1vQNYRqWodZvEYYVV0u14JMOikgV-qlmghGtHGD55EtS0LSCDd8iziyfVSxbFZX0K9ucarI1zJJ01PGA/pub) is a vision of what campus electrification at UCSD would look like.
+["Electrifying UCSD: The path to a zero-emision campus"](https://drive.google.com/file/d/1BN9l2NtlKBezrOCMrkzJigYViS5CxB0p/view?usp=share_link) is a poster presenting my work as a UC Carbon Neutrality Fellowship on evaluating decarbonization pathways for UCSD. 
+
+<img src="/images/Poster_Snapshot.png?raw=true"/>
+
+["An independent estimate of electrification demands and costs for UCSD"](https://docs.google.com/document/d/e/2PACX-1vQNYRqWodZvEYYVV0u14JMOikgV-qlmghGtHGD55EtS0LSCDd8iziyfVSxbFZX0K9ucarI1zJJ01PGA/pub) is a vision of what campus electrification at UCSD would look like, and represents preliminary work that led to the fellowship and above poster.
+
 
 ["What about the Lithium"](https://www.ucsdclimatereview.org/post/what-about-the-lithium) is a take on the anti-lithium rhetoric coming from the climate left. Rather than jumping to reject lithium batteries for the economic and social damages caused by extractivist mining practices, I urge a holistic view that includes their significant advantage over fossil energy and prospects for a fairer lithium trade.
 

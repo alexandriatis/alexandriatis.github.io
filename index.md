@@ -12,8 +12,7 @@
 ### Publications
 
 
-### CV
-
+### [CV](https://docs.google.com/document/d/e/2PACX-1vSKE6qbolDdsDnkRzLsCOBBWO-XD4WRiVmBVUMIYek3uUfmKlZDd9O44xdsuRx3l5bBlxE52vXRzACZ/pub)
 ---
 
 ## Climate Action

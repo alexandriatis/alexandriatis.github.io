@@ -12,7 +12,7 @@
 ### Publications
 
 
-### [Resume] / [CV](https://drive.google.com/file/d/1-A39Y8Ezkf1EP7HfVv_8Ocu4MdrdZkBr/view?usp=sharing)
+### [Resume](https://docs.google.com/document/d/e/2PACX-1vQ7aQzM7qDhdMkYKcI2QVtNaYZjFRGRT69zzG7fs3zzmvjMvH97LAB6czILgHZxVwnYz7hJV25TtX_n/pub) / [CV](https://drive.google.com/file/d/1-A39Y8Ezkf1EP7HfVv_8Ocu4MdrdZkBr/view?usp=sharing)
 ---
 
 ## Climate Action

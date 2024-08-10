@@ -1,30 +1,30 @@
 ## Phyiscal Oceanography
-### &ensp; Projects
+### &ensp;&ensp; [Projects](/research/projects/projects)
 
-&ensp;&ensp;&ensp; [Langmuir Turbulence](/research/projects/Langmuir)
+&ensp;&ensp;&ensp;&ensp;&ensp; [Langmuir Turbulence](/research/projects/Langmuir)
 
-&ensp;&ensp;&ensp; [Near-Inertial Wave Generation](/research/projects/NIWs)
+&ensp;&ensp;&ensp;&ensp;&ensp; [Near-Inertial Wave Generation](/research/projects/NIWs)
 
-&ensp;&ensp;&ensp; [Mixed-Layer Turbulence Observations](/research/projects/TChain)
+&ensp;&ensp;&ensp;&ensp;&ensp; [Mixed-Layer Turbulence Observations](/research/projects/TChain)
 
-&ensp;&ensp;&ensp; [Data Processing and Instrument Calibration](/research/projects/FastCTD)
+&ensp;&ensp;&ensp;&ensp;&ensp; [Data Processing and Instrument Calibration](/research/projects/FastCTD)
 
-&ensp;&ensp;&ensp; [Experiment Planning and Operations](/research/projects/Asset_Tracking)
+&ensp;&ensp;&ensp;&ensp;&ensp; [Experiment Planning and Operations](/research/projects/Asset_Tracking)
 
-&ensp;&ensp;&ensp; [Numerical Methods](/research/projects/Numerics)
+&ensp;&ensp;&ensp;&ensp;&ensp; [Numerical Methods](/research/projects/Numerics)
 
-### &ensp; Data
+### &ensp;&ensp; [Data](/research/data/data)
 
-&ensp;&ensp;&ensp; [Caifornia Coast 2020](/research/data/TFO)
+&ensp;&ensp;&ensp;&ensp;&ensp; [Caifornia Coast 2020](/research/data/TFO)
 
-### &ensp; [Publications](/research/publications/publications)
+### &ensp;&ensp; [Publications](/research/publications/publications)
 
 ---
 
 ## Climate Action
-### &ensp; [Decarbonization](climate_action/divestment)
-### &ensp; [Electrifying UC San Diego](climate_action/UCSD)
-### &ensp; [Divestment](/climate_action/divestment)
+#### &ensp;&ensp; [Decarbonization](climate_action/divestment)
+#### &ensp;&ensp; [Electrifying UC San Diego](climate_action/UCSD)
+#### &ensp;&ensp; [Divestment](/climate_action/divestment)
 
 ---
 

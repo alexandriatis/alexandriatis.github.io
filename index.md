@@ -22,9 +22,9 @@
 ---
 
 ## Climate Action
-#### &ensp;&ensp; [Decarbonization](climate_action/divestment)
-#### &ensp;&ensp; [Electrifying UC San Diego](climate_action/UCSD)
-#### &ensp;&ensp; [Divestment](/climate_action/divestment)
+### &ensp;&ensp; [Decarbonization](climate_action/divestment)
+### &ensp;&ensp; [Electrifying UC San Diego](climate_action/UCSD)
+### &ensp;&ensp; [Divestment](/climate_action/divestment)
 
 ---
 

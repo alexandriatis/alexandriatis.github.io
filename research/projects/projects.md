@@ -7,9 +7,9 @@ See what I'm currently thinking about. Get in touch with me to learn more!
 
 Langmuir turbulence is a leading-order driver of mixing in the ocean surface boundary layer. We observe the onset and evolution of Langmuir Circulations using novel ovservational techniques. In comparing their structure to high-resolution numerical models, we identify strategies for improving the modeling of turbulent processes. Better parametrizations of Langmuir turbulence can serve to increase the accuracy of large ocean and climate models.
 
-![image-left](/images/NIWs.png){: .align-left :width="10%"}
 [Near-Inertial Wave Generation](/research/projects/NIWs)
 
+![image-left](/images/NIWs.png){: .align-left : width="250" }
 Near-inertial waves are a primary mechanism by which wind energy at the surface of the ocean reaches the interior, mixing the deep ocean. Factors that influence the rate of downward energy propagation are still poorly understood, leading to uncertainty about the distribution of wind-driven mixing and near-inertial wave generation. Using observations and numerical models, I aim to improve our understanding of the ocean response to wind forcing.
 
 [Mixed-Layer Turbulence Observations](/research/projects/TChain)

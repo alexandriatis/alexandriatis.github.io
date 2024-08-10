@@ -7,7 +7,7 @@ See what I'm currently thinking about. Get in touch with me to learn more!
 <img src="images/eta_pulse.png?raw=true"/>
 
 [Near-Inertial Wave Generation](/research/projects/NIWs)
-&ensp; Near-inertial waves are a primary mechanism by which wind energy at the surface of the ocean reaches the interior, mixing the deep ocean. Constraining the mechanism 
+&ensp; Near-inertial waves are a primary mechanism by which wind energy at the surface of the ocean reaches the interior, mixing the deep ocean. 
 <img src="images/eta_pulse.png?raw=true"/>
 
 &ensp; [Mixed-Layer Turbulence Observations](/research/projects/TChain)

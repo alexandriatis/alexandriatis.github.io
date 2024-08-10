@@ -1,7 +1,8 @@
 ## Phyiscal Oceanography
-### Projects
+### [Projects](/research/projects)
 
-[Numerical Methods](/research/numerical_methods)
+
+&ensp [Numerical Methods](/research/numerical_methods)
 <img src="images/eta_pulse.png?raw=true"/>
 
 ### Data

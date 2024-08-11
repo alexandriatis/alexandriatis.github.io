@@ -9,8 +9,7 @@ Langmuir turbulence is a leading-order driver of mixing in the ocean surface bou
 
 [Near-Inertial Wave Generation](/research/projects/NIWs)
 
-![image-left](/images/NIWs.png){: .align-left : width="250" }
-Near-inertial waves are a primary mechanism by which wind energy at the surface of the ocean reaches the interior, mixing the deep ocean. Factors that influence the rate of downward energy propagation are still poorly understood, leading to uncertainty about the distribution of wind-driven mixing and near-inertial wave generation. Using observations and numerical models, I aim to improve our understanding of the ocean response to wind forcing.
+![image-left](/images/NIWs.png){: .align-left : width="250" } Near-inertial waves are a primary mechanism by which wind energy at the surface of the ocean reaches the interior, mixing the deep ocean. Factors that influence the rate of downward energy propagation are still poorly understood, leading to uncertainty about the distribution of wind-driven mixing and near-inertial wave generation. Using observations and numerical models, I aim to improve our understanding of the ocean response to wind forcing.
 
 [Mixed-Layer Turbulence Observations](/research/projects/TChain)
 Wind forcing on the ocean surface generates turbulence, mixing the surface boundary layer. This mixing sets the depth of the surface boundary layer, an essential ocean parameter that can predict the exchange of momentum, heat, and chemicals such as carbon dioxide, between the atmosphere and the ocean. Understanding the processes that set the depth of the mixed layer can improve its parametrization in models. I am using high-resolution measurements of turbulent structures at the base of the mixed layer to characterize the turbulent processes which drive mixed layer deepening.

@@ -15,8 +15,6 @@
 
 ### &ensp;&ensp; [Data](/research/data/data)
 
-&ensp;&ensp;&ensp;&ensp;&ensp; [California Coast 2020]](https://library.ucsd.edu/dc/collection/bb07292233)
-
 ### &ensp;&ensp; [Publications](/research/publications/publications)
 
 ---

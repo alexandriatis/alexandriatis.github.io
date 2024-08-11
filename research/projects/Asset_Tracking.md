@@ -1,15 +1,11 @@
-## Asset Tracking
+## [Projects](/research/projects/projects)
+## Experiment Planning and Operations
 
-**Introduction:** This is a sample platform to report asset positions and provide downloadable links
+A challenge of seagoing oceanography is the ability to adapt scientific operations to a dynamic and rapidly-changing ocean. As the field adopts the widespread use of autonomous instruments, multi-asset coordination becomes more important to achieve project goals. In support of the planning and deployment of a research cruise utilzing multiple freely-drifting instruments, I developed a website to track assets and forecast their positions using operational ocean velocity forecasts. This information was accesssible during bandwidth-limited shipboard operations and contributed to the efficient execution of two research campaigns.
 
-[Most recent asset positions](data/hello_world.txt)<br>
-    <a href="data/hello_world.txt" download>[download]</a>
 
-<object data="data/hello_world.txt" width="300" height="200">
-Not supported
-</object>
+![image](/images/Asset_Tracking_Example.png){: width="100%"}
 
-<a href="data/GMRTv3_TFO.png" download><img src="data/GMRTv3_TFO.png"/></a>
+![image](/images/Asset_Tracking_Code.png){: width="100%"}
 
-TFO grid:
-<a href="data/grid.mat" download>[MATLAB]</a>
+---

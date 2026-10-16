@@ -8,8 +8,8 @@ I made an [estimate](https://docs.google.com/document/d/e/2PACX-1vQituXFBpATW-eU
 
 The result of this cost estimate is, of course, that electrification is more expensive than continuing to use methane-based cogeneration, but we already knew that. The key result here is that **the benefits of electrification are worth the immediate cost**, and that **electrification will save UCSD money in the long run**.
 
-<img src="/images/electrification_cost.png?raw=true"/>
-<img src="/images/electrification_resources.png?raw=true"/>
+<img src="/images/climate/electrification_cost.png?raw=true"/>
+<img src="/images/climate/electrification_resources.png?raw=true"/>
 
 
 ### [Get Involved](https://electrifyuc.org/take-action/)
@@ -17,7 +17,7 @@ The result of this cost estimate is, of course, that electrification is more exp
 I am part of the [Decarbonization Campaign](https://ucsdgreennewdeal.net/index.php/campaign-1-decarbonize/) within the UCSD Green New Deal, which has a goal of convincing the UC campuses to electrify their energy systems and accelerate the retirement of fossil fuel infrastructure. You can see your campaign at [electrifyuc.org](https://electrifyuc.org) and learn how to get involved.
 
 
-<img src="/images/electrify_uc_logo.png?raw=true"/>
+<img src="/images/climate/electrify_uc_logo.png?raw=true"/>
 
 
 ## Ship Electrification
@@ -29,4 +29,4 @@ I started a [petition](https://docs.google.com/document/d/e/2PACX-1vTe9TEQ24amTj
 The Scripps administration has not yet responded to the petition or made any commitments to zero-emissions ships. A [hydrogen-hybrid ship](https://scripps.ucsd.edu/news/uc-san-diego-receives-35-million-state-funding-new-california-coastal-research-vessel), however, has been awarded $35 million in the 2021 California state budget. This ship will replace the R/V Sproul and will be able to conduct about 75% of its missions using only hydrogen power, leading to overal emissions reductions of about 25%. 
 
 
-<img src="/images/ship_flyer.png?raw=true"/>
+<img src="/images/climate/ship_flyer.png?raw=true"/>

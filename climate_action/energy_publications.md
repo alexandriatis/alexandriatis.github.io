@@ -11,13 +11,13 @@ To inform my discussions about the cliamte crisis and solutions for it, I've mad
 
 ["Electric Vehicle Efficiency"](https://docs.google.com/spreadsheets/d/e/2PACX-1vT3hyL1zs1qWMaysPEsQY4mV_MfUcAXoP-icdj5bYuDsV4OPYp4QOOpUJ8VIy_pI-SyNAec6IKD8AEt/pubhtml) is a running list of electric vehicles available on the market. It is meant both as a research tool to guage the status of electric vehicle efficiency and cost, and as a tool to aid purchasing decisions. 
 
-<img src="/images/vehicle_efficiency.png?raw=true"/>
+<img src="/images/climate/vehicle_efficiency.png?raw=true"/>
 
 ### Energy
 
 ["Electrifying UCSD: The path to a zero-emision campus"](https://drive.google.com/file/d/1BN9l2NtlKBezrOCMrkzJigYViS5CxB0p/view?usp=share_link) is a poster presenting my work as a UC Carbon Neutrality Fellowship on evaluating decarbonization pathways for UCSD. 
 
-<img src="/images/Poster_Snapshot.png?raw=true"/>
+<img src="/images/climate/Poster_Snapshot.png?raw=true"/>
 
 ["An independent estimate of electrification demands and costs for UCSD"](https://docs.google.com/document/d/e/2PACX-1vQNYRqWodZvEYYVV0u14JMOikgV-qlmghGtHGD55EtS0LSCDd8iziyfVSxbFZX0K9ucarI1zJJ01PGA/pub) is a vision of what campus electrification at UCSD would look like, and represents preliminary work that led to the fellowship and above poster.
 
@@ -34,4 +34,4 @@ To inform my discussions about the cliamte crisis and solutions for it, I've mad
 ---
 
 
-<!--- <img src="/images/alex_tesla.jpg?raw=true"/> -->
+<!--- <img src="/images/climate/alex_tesla.jpg?raw=true"/> -->

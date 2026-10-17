@@ -48,9 +48,6 @@
 
 ---
 
-#### [Resume](https://drive.google.com/file/d/1nmG3tg-x1NizUMRQ24IrP8U4SuNDP4wN/view?usp=sharing) / [CV](https://drive.google.com/file/d/1-A39Y8Ezkf1EP7HfVv_8Ocu4MdrdZkBr/view?usp=sharing)
-
----
 
 <p style="font-size:11px">Page based on <a href="https://pages-themes.github.io/minimal/">minimal</a></p>
 <!-- Remove above link if you don't want to attibute -->

@@ -11,7 +11,7 @@ Individuals at UCSD can divest themselves from fossil fuels by
 
 1) [Moving their retirement savings to a fossil free fund](https://ucsdgreennewdeal.net/index.php/401k-403b/).
 
-2) Swithing their [personal banking](https://www.ran.org/bankingonclimatechaos2021/) to a fossil-free bank, such as the [USE Credit Union](https://www.usecu.org).
+2) Swithing their [personal banking](https://www.bankingonclimatechaos.org/) to a fossil-free bank, such as the [BluPeak Credit Union (formerly USE Credit Union)](https://www.blupeak.com/).
 
 
 
